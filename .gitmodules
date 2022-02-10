@@ -1,0 +1,6 @@
+[submodule "workstation-frontend"]
+	path = workstation-frontend
+	url = https://github.com/StartFuture/workstation-frontend
+[submodule "workstation-backend"]
+	path = workstation-backend
+	url = https://github.com/StartFuture/workstation-backend
