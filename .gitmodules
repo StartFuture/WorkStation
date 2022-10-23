@@ -4,3 +4,6 @@
 [submodule "workstation-backend"]
 	path = workstation-backend
 	url = https://github.com/StartFuture/workstation-backend
+[submodule "dockerization"]
+	path = dockerization
+	url = https://github.com/startfuture/workstation-dockerization
